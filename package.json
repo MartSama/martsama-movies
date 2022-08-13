@@ -1,0 +1,19 @@
+{
+  "name": "martsama-movies",
+  "version": "1.0.0",
+  "description": "Movies App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartSama/martsama-movies.git"
+  },
+  "author": "MartSama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartSama/martsama-movies/issues"
+  },
+  "homepage": "https://github.com/MartSama/martsama-movies#readme"
+}
